@@ -1,6 +1,6 @@
 import 'bulma/css/bulma.css'
 import './App.css'
-import { Monday } from './monday'
+import { Monday } from './Monday.jsx'
 import DumbellRow from './assets/dumbellrow.jpg'
 import PulldownMachine from './assets/pulldownmachine.jpg'
 import SeatedRow from './assets/seatedrow.jpg'
